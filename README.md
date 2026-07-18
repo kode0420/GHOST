@@ -1,4 +1,4 @@
-[README-GHOST.md](https://github.com/user-attachments/files/30156932/README-GHOST.md)
+
 <div align="center">
 
 # 👻 KODE420 GHOST
